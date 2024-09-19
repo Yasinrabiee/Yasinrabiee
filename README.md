@@ -26,10 +26,4 @@
       src="https://img.shields.io/badge/telegram-333333?style=for-the-badge&logo=telegram&logoColor=f0db4f"
     />
   </a>
-  
-  <a href="mailto:yasinrabiee.23@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=f0db4f"
-    />
-  </a>
 </div>
