@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=E0E0E0&duration=3000&lines=Hi+There!;+I'm+Yasin+Rabiee!;"
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=BDBDBD&duration=3000&lines=Hi+There!;+I'm+Yasin+Rabiee!;"
   />
   <br/>
   <img
@@ -13,11 +13,17 @@
   />
   <br />
   <img
-    src="https://skillicons.dev/icons?i=git,github,gitlab,regex"
+    src="https://skillicons.dev/icons?i=cpp,git,github,gitlab,regex"
   />
   <h2>My IDE:</h2>
   <img 
     src="https://skillicons.dev/icons?i=sublime,vscode"  
   />
   <br/>
+  <h2>Contact Me:</h2>
+  <a href="https://T.me/YasharMohamaddi">
+    <img
+      src="https://img.shields.io/badge/telegram-333333?style=for-the-badge&logo=telegram&logoColor=f0db4f"
+    />
+  </a>
 </div>
