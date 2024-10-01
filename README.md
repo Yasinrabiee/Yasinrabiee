@@ -8,6 +8,7 @@
   />
   
   <h2>My Skills:</h2>
+  
   <img
     src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery"
   />
