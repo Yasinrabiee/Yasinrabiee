@@ -25,7 +25,7 @@
   <h2>Contact Me:</h2>
   <a href="https://T.me/YasinRabiee">
     <img
-      src="https://img.shields.io/badge/telegram-333333?style=for-the-badge&logo=telegram&logoColor=EEEEEE"
+      src="https://img.shields.io/badge/telegram-333333?style=for-the-badge&logo=telegram&logoColor=2E2E2E"
     />
   </a>
 </div>
