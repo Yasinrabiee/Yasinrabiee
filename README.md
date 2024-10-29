@@ -20,7 +20,7 @@ src="https://camo.githubusercontent.com/32f8c02627301a5b66691d277231cf1c4dff9539
     src="https://skillicons.dev/icons?i=sublime,vscode"  
   />
   
-  <br/>
+  <br>
   
   <h2>Contact Me:</h2>
   <a href="https://T.me/YasinRabiee">
