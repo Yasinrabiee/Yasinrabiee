@@ -15,13 +15,10 @@ src="https://camo.githubusercontent.com/32f8c02627301a5b66691d277231cf1c4dff9539
   <img
     src="https://skillicons.dev/icons?i=cpp,git,github,gitlab,regex"
   />
-  <h2>My IDE:</h2>
   <img 
     src="https://skillicons.dev/icons?i=sublime,vscode"  
   />
-  
   <br>
-  
 <h2>Contact Me:</h2>
   <a href="https://T.me/YasinRabiee">
     <img
