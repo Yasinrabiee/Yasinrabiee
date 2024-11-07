@@ -15,6 +15,7 @@ src="https://camo.githubusercontent.com/32f8c02627301a5b66691d277231cf1c4dff9539
   <img
     src="https://skillicons.dev/icons?i=cpp,git,github,gitlab,regex"
   />
+  <br>
   <img 
     src="https://skillicons.dev/icons?i=sublime,vscode"  
   />
