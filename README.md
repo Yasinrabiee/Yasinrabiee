@@ -9,15 +9,15 @@ src="https://camo.githubusercontent.com/32f8c02627301a5b66691d277231cf1c4dff9539
   <h2></h2>
   
   <img
-    src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery"
+    src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js"
   />
   <br>
   <img
-    src="https://skillicons.dev/icons?i=cpp,git,github,gitlab,regex"
+    src="https://skillicons.dev/icons?i=jquery,cpp,git,github,gitlab"
   />
   <br>
   <img 
-    src="https://skillicons.dev/icons?i=sublime,vscode,npm"  
+    src="https://skillicons.dev/icons?i=regex,sublime,vscode,npm"  
   />
   <br>
 <h2></h2>
