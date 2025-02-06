@@ -26,5 +26,4 @@ src="https://camo.githubusercontent.com/32f8c02627301a5b66691d277231cf1c4dff9539
       src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=EEEEEE"
     />
   </a>
-[Forms](https://docs.google.com/forms/d/e/1FAIpQLSf6k6Een2XMKE52rqV7x6QxZDpq54q4XyJKNjC3g9dXiGjFcA/viewform)
 </div>
