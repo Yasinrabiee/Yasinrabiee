@@ -20,7 +20,7 @@ src="https://camo.githubusercontent.com/32f8c02627301a5b66691d277231cf1c4dff9539
     src="https://skillicons.dev/icons?i=gitlab,regex,sublime,vscode,npm"  
   />
   <img 
-    src="https://skillicons.dev/icons?i=mysql,mariadb"  
+    src="https://skillicons.dev/icons?i=mysql,maria"  
   />
   <br>
 <h2></h2>
