@@ -21,7 +21,7 @@ src="https://camo.githubusercontent.com/32f8c02627301a5b66691d277231cf1c4dff9539
   />
   <br>
   <img
-    src="https://skillicons.dev/icons?i=php,mysql,blade"
+    src="https://skillicons.dev/icons?i=php,mysql,laravel"
   />
 <h2></h2>
   <a href="https://T.me/YasinRabiee">
