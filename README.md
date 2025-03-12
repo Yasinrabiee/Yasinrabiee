@@ -20,6 +20,9 @@ src="https://camo.githubusercontent.com/32f8c02627301a5b66691d277231cf1c4dff9539
     src="https://skillicons.dev/icons?i=gitlab,regex,sublime,vscode,npm"  
   />
   <br>
+  <img
+    src="https://skillicons.dev/icons?i=php,mysql"
+  />
 <h2></h2>
   <a href="https://T.me/YasinRabiee">
     <img
