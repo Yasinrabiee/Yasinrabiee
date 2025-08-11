@@ -9,7 +9,7 @@ src="https://camo.githubusercontent.com/32f8c02627301a5b66691d277231cf1c4dff9539
   <h2></h2>
   
   <img
-    src="https://skillicons.dev/icons?i=js,jquery,vue,php,mysql"
+    src="https://skillicons.dev/icons?i=js,jquery,vue,php,mysql,twig"
   />
 <h2></h2>
   <a href="https://T.me/YasinRabiee">
