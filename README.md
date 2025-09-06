@@ -12,7 +12,7 @@ src="https://camo.githubusercontent.com/32f8c02627301a5b66691d277231cf1c4dff9539
     <tr>
       <td>
         <img
-    src="https://skillicons.dev/icons?i=php,mvc"
+    src="https://skillicons.dev/icons?i=php"
   />
       </td>
       <td>
