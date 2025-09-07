@@ -27,7 +27,7 @@ src="https://camo.githubusercontent.com/32f8c02627301a5b66691d277231cf1c4dff9539
       </td>
       <td>
         <img
-    src="https://skillicons.dev/icons?i=git"
+    src="https://skillicons.dev/icons?i=git,apache"
   />
       </td>
     </tr>
